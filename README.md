@@ -15,16 +15,6 @@ Voici un aperçu de mes compétences techniques :
 
 ---
 
-## 🌱 Ce que j'apprends actuellement
-
-Je continue d'apprendre et de me perfectionner dans :
-
-- **Développement full-stack** avec React et Node.js
-- **Algorithmes avancés** pour l'optimisation et la gestion des données
-- **DevOps** et déploiement d'applications
-
----
-
 ## 📫 Comment me contacter
 
 Vous pouvez me contacter via :
