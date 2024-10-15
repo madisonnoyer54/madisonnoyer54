@@ -1,6 +1,6 @@
 # Bonjour, je suis NOYER Madison 👋
 
-Bienvenue sur mon profil GitHub ! Je suis une développeurse passionnée par l'informatique et les nouvelles technologies. Actuellement, je poursuis un **Master 2 en Informatique** à l'Université de Lorraine, avec une spécialisation en **ingénierie logicielle**. Diplômée d'une Licence en Informatique, j'ai acquis une solide base en développement logiciel, conception d'algorithmes et gestion de projets techniques.
+Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par l'informatique et les nouvelles technologies. Actuellement, je poursuis un **Master 2 en Informatique** à l'Université de Lorraine, avec une spécialisation en **ingénierie logicielle**. Diplômée d'une Licence en Informatique, j'ai acquis une solide base en développement logiciel, conception d'algorithmes et gestion de projets techniques.
 
 ---
 
